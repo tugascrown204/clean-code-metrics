@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Clean Code Metrics API v1.1! Explore metrics and insights to improve your code quality.');
+  res.send('Welcome to the Clean Code Metrics API! Explore metrics and insights to enhance your code quality.');
 });
 
 app.listen(PORT, () => {
