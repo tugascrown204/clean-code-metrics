@@ -19,6 +19,6 @@
     "url": "git+https://github.com/yourusername/clean-code-metrics.git"
   },
   "keywords": ["clean-code", "metrics", "analysis"],
-  "author": "John Doe",
+  "author": "Jane Doe",
   "license": "MIT"
 }
